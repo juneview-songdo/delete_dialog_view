@@ -19,5 +19,5 @@
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/delete_dialog_view/assets/21379657/4d1e1d10-3b6b-4feb-a86e-9fd8b142ad3f)
 
